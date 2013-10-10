@@ -27,6 +27,9 @@ footer{
     left:0;
     right:0;
     height: 30px;
+    color:white;
+    font-family : Arial;
+    font-size:30px;
 }
 .hero-unit {
     margin: 50px auto 0 auto;
@@ -90,6 +93,7 @@ footer{
 }
 
 .btn {
+    cursor:pointer;
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
 	box-shadow:inset 0px 1px 0px 0px #ffffff;
