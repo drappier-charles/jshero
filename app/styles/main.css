@@ -1,0 +1,32 @@
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.hero-unit {
+    margin: 50px auto 0 auto;
+    width: 300px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 60px;
+}
+
+.hero-unit h1 {
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.clear { clear:both; } 
+
+.track { background:#555; border:#888 4px solid; float:left; width:50px; height:50px;}
+
+.track .touchkey { width:50px; height:50px; background-size:100%;}
+.track[ref='0'] .touchkey { background-image:url('/images/touch/green.png'); }
+.track[ref='1'] .touchkey { background-image:url('/images/touch/orange.png'); }
+.track[ref='2'] .touchkey { background-image:url('/images/touch/red.png'); }
+.track[ref='3'] .touchkey { background-image:url('/images/touch/yellow.png'); }
