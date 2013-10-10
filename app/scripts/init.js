@@ -7,8 +7,8 @@ var song = {
 var touchkeys = [
 	{
 		id:0,
-		timestamp:2,
-		color:0
+		timestamp:5,
+		color:3
 	},
 	{
 		id:1,

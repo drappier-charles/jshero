@@ -54,7 +54,7 @@ footer{
 
 
 .track { 
-    background:#555; float:left;  height: 100%; width: 60px; position:relative;  
+    background:#555; float:left;  height: 100%; width: 60px; position:relative;  overflow:hidden;
 }
 .track + .track{
     border-left: #888 solid 3px;
