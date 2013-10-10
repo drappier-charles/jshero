@@ -1,8 +1,10 @@
 <header>
-<img src="images/AnguitarHero.png" class="logo"/>
-<button class="btn btn-large" ng-click="start()">Start</button>
-<button class="btn btn-large" ng-click="pause()">Pause</button>
-<button class="btn btn-large" ng-click="stop()">Stop</button>
+	<div class="wrapper">
+		<img src="images/AnguitarHero.png" class="logo"/>
+		<button class="btn btn-large" ng-click="start()">Start</button>
+		<button class="btn btn-large" ng-click="pause()">Pause</button>
+		<button class="btn btn-large" ng-click="stop()">Stop</button>
+	</div>
 </header>
 
 <div class="main">
@@ -19,7 +21,9 @@
     </div>
 </div>
 <footer>
-    <div>Score : <span id="currentScore">{{score}}</span></div>
+	<div class="wrapper">
+	    <div>Score : <span id="currentScore">{{score}}</span></div>
+	</div>
 </footer>
 
 <audio style="display: none"></audio>
