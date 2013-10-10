@@ -12,6 +12,7 @@ header{
 header img { display:block; }
 
 body {
+    margin:0;
     position:absolute; top:0; right:0; left:0; bottom:0;
     background: #fafafa;
     background:url('/images/background.jpg');
@@ -57,7 +58,7 @@ footer{
 }
 
 .main {
-    position: absolute; top: 130px; left: 0; right:0; bottom:  30px;
+    position: absolute; top: 160px; left: 0; right:0; bottom:  30px;
 }
 
 .main_track {
