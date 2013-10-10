@@ -14,6 +14,10 @@ angular.module('jsheroApp')
 			game.updateCurrentDisplay(this.currentTime,song.touchkeys);
 		});
 
+		$(document).keypress(function(e) {
+			console.log(e)
+		})
+
 		$scope.score = 0;
   }]);
 
