@@ -3,7 +3,7 @@ angular.module('jsheroApp').
 
 	var songs = [{
 		id : 0,
-		url : 'http://downloads.avalanche-mdz.fr/Musique/Discographie%20Skrillex/01%20My%20Name%20Is%20Skrillex.mp3',
+		url : 'images/Blue Foundation - Eyes On Fire (Zeds Dead Remix).mp3',
 		touchkeys : [ 0 , 1 , 2 , 3 , 4 ]
 	}];
 
