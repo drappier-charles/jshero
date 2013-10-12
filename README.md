@@ -17,3 +17,7 @@ Seul 5 touche sont préréglé, l'experience de jeu est donc limité, dans le bu
 
 <h1>Qu'est ce qui ne marchera pas ??</h1>
 - Les boutons pause et stop ne sont pas encore implanté, ils sont juste la pour décoré!
+
+<h1>Les auteurs</h1>
+- Moi même,
+- Camille Renaud <a href="https://github.com/mylune">Mylune</a>
